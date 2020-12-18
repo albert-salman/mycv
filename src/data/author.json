@@ -1,12 +1,12 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Albert Salman",
+    "occupation": "Solution Architect",
+    "location": "Kazan, Russia",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "He/his",
+    "email": "albert.salman@entarch.ru",
+    "telephone": "+7 927 456 72 02",
+    "website": "https://dev.dev",
     "skills": [
         "HTML",
         "CSS",
@@ -18,27 +18,18 @@
     "languages": [
         {
             "name": "English",
+            "level": "professional proficiency"
+        },
+        {
+            "name": "Russian",
             "level": "native"
-        },
-        {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
-            "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
-        },
-        {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "AlbertSalman",
+            "url": "https://www.linkedin.com/in/albertsalman"
         }
     ]
 }
